@@ -1,2 +1,2 @@
-# Recon-Toolkit
-Information gathering scripts for reconnaissance.
+# Reconnaissance Toolkit
+
