@@ -9,3 +9,4 @@ A collection of information gathering scripts.
 * [ ] TCP Packet Injection
 * [ ] Forensic Analysis
 * [ ] Malware Analysis
+* [ ] Web Spider
