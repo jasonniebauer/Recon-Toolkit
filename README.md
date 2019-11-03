@@ -3,7 +3,8 @@ A collection of information gathering scripts.
 
 **To Do**  
 * [ ] Web Recon
-* [ ] Port Scanning
+* [ ] Network Scan
+* [ ] Port Scan
 * [ ] Packet Sniffing
 * [ ] Banner Grabbing
 * [ ] TCP Packet Injection
